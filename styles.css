@@ -25,3 +25,13 @@ p {
   cursor: pointer;
 }
 
+#intro {
+  font-size: 1.5rem;
+  line-height: 2.1rem;
+}
+
+#text {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+

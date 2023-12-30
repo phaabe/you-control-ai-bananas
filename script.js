@@ -34,7 +34,7 @@ function getRandomSentence(sentences) {
 }
 
 function updateText() {
-  textElement.innerText = getRandomSentence(currentMode === 'banana' ? bananaSentences : monkeySentences);
+  textElement.innerText = "🤖 \"" + getRandomSentence(currentMode === 'banana' ? bananaSentences : monkeySentences) + "\"";
 }
 
 toggleButton.addEventListener('click', () => {
