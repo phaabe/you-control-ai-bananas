@@ -1,1 +1,3 @@
-# you-control-ai-bananas
+# You Control the AI (bananas version)
+
+This is just a joke!
