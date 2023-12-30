@@ -1,0 +1,27 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+p {
+	height: 3em;
+}
+.content {
+  text-align: center;
+}
+
+#emoji {
+  font-size: 2rem;
+}
+
+#toggle {
+  margin-top: 20px;
+  font-size: 1rem;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
